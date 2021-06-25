@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_53_prostranstvo_imen
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_56_yavnoe-preobrazovanie-tipov-dannyh-operatory-casts", "lesson_56_yavnoe-preobrazovanie-tipov-dannyh-operatory-casts\lesson_56_yavnoe-preobrazovanie-tipov-dannyh-operatory-casts.vcxproj", "{E78686E3-2902-4945-8357-0D5B2E32DA15}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_57_string", "lesson_57_string\lesson_57_string.vcxproj", "{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{E78686E3-2902-4945-8357-0D5B2E32DA15}.Release|x64.Build.0 = Release|x64
 		{E78686E3-2902-4945-8357-0D5B2E32DA15}.Release|x86.ActiveCfg = Release|Win32
 		{E78686E3-2902-4945-8357-0D5B2E32DA15}.Release|x86.Build.0 = Release|Win32
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Debug|x64.ActiveCfg = Debug|x64
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Debug|x64.Build.0 = Debug|x64
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Debug|x86.Build.0 = Debug|Win32
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Release|x64.ActiveCfg = Release|x64
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Release|x64.Build.0 = Release|x64
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Release|x86.ActiveCfg = Release|Win32
+		{CD09E9C0-902A-4614-ABFC-1FADB20F88E8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
