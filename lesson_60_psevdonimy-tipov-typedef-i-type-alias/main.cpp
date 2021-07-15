@@ -18,7 +18,11 @@ int main()
 	/*age_t myAge;
 	int myAge;*/
 
-	std::cout << SpeedCar(10) << std::endl;
+	std::cout << SpeedCar(10.5) << std::endl;
+
+//В с++ 11 ввели новый способ задавать псевдоним имеющимуся типу данных -  type alias
+//Он удобнее,чем typedef. Используйте его.
+	using name_t = std::string; 
 
 	std::cin.get();
 	return 0;
@@ -26,6 +30,7 @@ int main()
 
 speed_mc_t SpeedCar(double speed)
 {
-	double result{ static_cast<double>(speed) * 1000 / 3600 };
+	
+	double result{ speed * 1000 / 3600 };
 	return result;
 }
