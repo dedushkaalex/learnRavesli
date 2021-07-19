@@ -69,6 +69,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_62_auto", "lesson_62
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glava_4_itogovi_test", "glava_4_itogovi_test\glava_4_itogovi_test.vcxproj", "{530EE440-28B6-4701-8557-F6265F5D67EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_64_ifElse", "lesson_64_ifElse\lesson_64_ifElse.vcxproj", "{695B023C-91C7-4654-8A03-8195D20C3D20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_65_switch", "lesson_65_switch\lesson_65_switch.vcxproj", "{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -341,6 +345,22 @@ Global
 		{530EE440-28B6-4701-8557-F6265F5D67EC}.Release|x64.Build.0 = Release|x64
 		{530EE440-28B6-4701-8557-F6265F5D67EC}.Release|x86.ActiveCfg = Release|Win32
 		{530EE440-28B6-4701-8557-F6265F5D67EC}.Release|x86.Build.0 = Release|Win32
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Debug|x64.ActiveCfg = Debug|x64
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Debug|x64.Build.0 = Debug|x64
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Debug|x86.ActiveCfg = Debug|Win32
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Debug|x86.Build.0 = Debug|Win32
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Release|x64.ActiveCfg = Release|x64
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Release|x64.Build.0 = Release|x64
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Release|x86.ActiveCfg = Release|Win32
+		{695B023C-91C7-4654-8A03-8195D20C3D20}.Release|x86.Build.0 = Release|Win32
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Debug|x64.ActiveCfg = Debug|x64
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Debug|x64.Build.0 = Debug|x64
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Debug|x86.Build.0 = Debug|Win32
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Release|x64.ActiveCfg = Release|x64
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Release|x64.Build.0 = Release|x64
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Release|x86.ActiveCfg = Release|Win32
+		{CB34DC4D-AFE4-4496-B30E-981CCED4C66F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
