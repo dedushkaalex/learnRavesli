@@ -5,15 +5,19 @@ int main()
     int outer = 1;
     while (outer <= 5)
     {
-        int inner = 1;
-        while (inner <= outer)
+        int inner = 5;
+        while (inner >= 1)
         {
-            std::cout << inner++<<" ";
+            if (inner <= outer)
+            {
+                std::cout << inner << " ";
+            }
+            else std::cout << "  "; // вставляем дополнительные пробелы
+            --inner;
         }
-        std::cout<<"\n";
+        std::cout << "\n";
         ++outer;
     }
     system("pause");
-
     return 0;
 }
